@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-12-01T07:04:07.890846",
+  "threat_level": "CRITICAL",
+  "probability": 0.9233397054794229,
+  "flow": "10.42.0.211:47928 \u2192 111.1.17.152:8077",
+  "patterns": [
+    "dataset_keylogger_sample",
+    "known_malicious_flow"
+  ]
+}

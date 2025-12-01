@@ -1,0 +1,34 @@
+# Keylogger Detection System Configuration
+
+# Detection Thresholds
+thresholds:
+  network_probability: 0.75    # ML model threshold
+  process_suspicion_score: 3   # Process behavior score
+  file_access_rate: 100        # Files per minute
+  
+# Network Monitoring
+network:
+  flow_timeout: 5.0            # Seconds before flow expires
+  interface: null              # null = auto-detect
+  
+# Alert Settings
+alerts:
+  popup_enabled: true
+  popup_duration: 10           # Seconds
+  sound_enabled: true
+  log_all: true
+  
+# Detection Layers (enable/disable)
+layers:
+  network: true
+  process: true
+  hooks: true
+  filesystem: true
+  registry: true
+  clipboard: true
+  
+# Logging
+logging:
+  level: INFO                  # DEBUG, INFO, WARNING, ERROR
+  max_file_size_mb: 100
+  backup_count: 5
