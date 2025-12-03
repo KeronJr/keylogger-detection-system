@@ -1,0 +1,4 @@
+[2025-12-01 17:20:29] Key: ctrl | Window: (25) Benitha Louange IYUYISENGA | LinkedIn and 41 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 17:20:29] Key: w | Window: (25) Benitha Louange IYUYISENGA | LinkedIn and 41 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 17:20:41] Key: ctrl | Window: Benitha Louange (@benitha200) • Instagram photos and videos and 41 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 17:20:42] Key: w | Window: Benitha Louange (@benitha200) • Instagram photos and videos and 41 more pages - Personal - Microsoft​ Edge | Process: msedge.exe

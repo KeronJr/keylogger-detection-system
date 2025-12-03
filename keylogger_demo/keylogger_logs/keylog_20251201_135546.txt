@@ -1,0 +1,2 @@
+[2025-12-01 13:55:56] Key: ctrl | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:55:57] Key: c | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe

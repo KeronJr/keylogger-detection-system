@@ -1,0 +1,388 @@
+[2025-12-01 13:44:46] Key: esc | Window: New tab and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:20] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:21] Key: shift | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:22] Key: K | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:22] Key: e | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:22] Key: r | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:22] Key: o | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:23] Key: n | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:23] Key: shift | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:23] Key: J | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:23] Key: u | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:24] Key: n | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:24] Key: i | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:24] Key: o | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:24] Key: t | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:25] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:25] Key: e | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:25] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:26] Key: r | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:27] Key: ctrl | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:28] Key: a | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:28] Key: backspace | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:28] Key: shift | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:29] Key: K | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:29] Key: e | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:29] Key: r | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:29] Key: o | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:29] Key: n | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:30] Key: shift | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:30] Key: @ | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:30] Key: 2 | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:31] Key: 5 | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:31] Key: 0 | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:45:31] Key: enter | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:48:45] Key: G | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:48:55] Key: G | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:48:56] Key: G | Window: Login | ASPEN and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:50:22] Key: ctrl | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:50:22] Key: c | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:02] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:03] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:03] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:03] Key: h | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:04] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:04] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:04] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:04] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:04] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:04] Key: l | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:04] Key: l | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:05] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:05] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:05] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:05] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:06] Key: d | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:06] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:06] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:06] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:07] Key: c | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:07] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:07] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:08] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:08] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:08] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:09] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:09] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:09] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:11] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:11] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:11] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:11] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:12] Key: a | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:12] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:12] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:13] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:13] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:13] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:13] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:13] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:13] Key: k | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:14] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:14] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:14] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:14] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:14] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:14] Key: u | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:15] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:15] Key: p | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:16] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:16] Key: c | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:16] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:17] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:17] Key: u | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:17] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:17] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:18] Key: b | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:18] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:18] Key: c | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:18] Key: a | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:18] Key: u | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:19] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:19] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:19] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:19] Key: a | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:19] Key: m | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:19] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:20] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:20] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:20] Key: l | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:21] Key: y | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:21] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:21] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:21] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:21] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:22] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:22] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:22] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:22] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:22] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:22] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:22] Key: h | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:23] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:23] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:23] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:41] Key: right | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:41] Key: right | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:41] Key: right | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:41] Key: right | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:42] Key: right | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:42] Key: right | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:42] Key: right | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:42] Key: right | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:42] Key: right | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:43] Key: right shift | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:43] Key: enter | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:44] Key: ctrl | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:44] Key: v | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:45] Key: right shift | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:45] Key: enter | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:45] Key: enter | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:53] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:53] Key: h | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:53] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:53] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:53] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:53] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:54] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:54] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:54] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:54] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:54] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:54] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:55] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:55] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:55] Key: a | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:56] Key: y | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:56] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:56] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:56] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:56] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:56] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:57] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:57] Key: l | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:57] Key: l | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:57] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:57] Key: d | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:57] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:58] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:58] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:58] Key: c | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:58] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:58] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:59] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:59] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:59] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:51:59] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:04] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:05] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:05] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:07] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:07] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:07] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:07] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:07] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:08] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:08] Key: h | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:08] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:08] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:08] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:09] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:09] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:09] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:09] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:09] Key: a | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:09] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:10] Key: k | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:10] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:10] Key: y | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:10] Key: l | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:11] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:11] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:11] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:11] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:11] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:12] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:12] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:13] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:14] Key: y | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:14] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:14] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:14] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:15] Key: a | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:15] Key: m | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:15] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:15] Key: k | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:16] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:16] Key: y | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:16] Key: l | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:17] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:17] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:17] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:17] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:17] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:18] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:18] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:19] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:19] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:19] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:20] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:20] Key: m | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:20] Key: y | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:20] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:22] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:22] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:23] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:24] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:24] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:24] Key: k | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:24] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:24] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:24] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:25] Key: right shift | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:25] Key: enter | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:25] Key: enter | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:26] Key: f | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:26] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:26] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:26] Key: m | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:27] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:27] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:27] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:28] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:28] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:28] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:28] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:29] Key: x | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:29] Key: a | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:29] Key: m | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:29] Key: p | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:29] Key: l | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:29] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:30] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:30] Key: right shift | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:31] Key: enter | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:52:57] Key: ctrl | Window: keylog_20251201_134423.txt - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-01 13:52:58] Key: ctrl | Window: keylog_20251201_134423.txt - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-01 13:52:58] Key: c | Window: keylog_20251201_134423.txt - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-01 13:53:00] Key: ctrl | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:00] Key: v | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:02] Key: right shift | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:02] Key: enter | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:03] Key: enter | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:03] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:03] Key: h | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:03] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:03] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:04] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:04] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:04] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:04] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:04] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:05] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:05] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:05] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:05] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:06] Key: num lock | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:07] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:07] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:08] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:08] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:08] Key: a | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:08] Key: y | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:08] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:11] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:11] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:11] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:11] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:12] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:12] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:12] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:12] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:12] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:12] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:13] Key: d | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:13] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:13] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:13] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:14] Key: c | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:14] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:14] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:15] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:15] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:15] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:15] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:15] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:15] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:16] Key: b | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:16] Key: u | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:16] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:16] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:17] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:17] Key: h | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:17] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:17] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:18] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:18] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:18] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:18] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:18] Key: m | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:18] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:18] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:21] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:21] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:21] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:22] Key: w | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:22] Key: o | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:22] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:22] Key: k | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:22] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:23] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:23] Key: h | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:23] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:23] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:23] Key: g | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:24] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:24] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:24] Key: i | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:24] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:24] Key: d | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:24] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:24] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:25] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:25] Key: u | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:25] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:25] Key: d | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:26] Key: e | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:26] Key: r | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:26] Key: s | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:26] Key: t | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:26] Key: a | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:26] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:26] Key: m | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:26] Key: d | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:26] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:27] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:27] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:27] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:28] Key: backspace | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:28] Key: n | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:28] Key: d | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:28] Key: space | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:53:29] Key: enter | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-01 13:54:00] Key: G | Window: Claude and 46 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
