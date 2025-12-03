@@ -1,0 +1,62 @@
+[2025-12-03 12:43:16] Key: e | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:16] Key: w | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:17] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:17] Key: ; | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:17] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:17] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:17] Key: w | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:17] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:17] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:17] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: n | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: e | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:19] Key: n | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: ; | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:21] Key: e | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:23] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:23] Key: m | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:23] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:27] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:28] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:29] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:34] Key: ctrl | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:35] Key: ctrl | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:35] Key: ctrl | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:35] Key: ctrl | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:37] Key: v | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:37] Key: right shift | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:37] Key: enter | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:37] Key: enter | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:37] Key: enter | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:38] Key: e | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:38] Key: r | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:38] Key: r | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:38] Key: o | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:38] Key: r | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:40] Key: space | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:40] Key: backspace | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:40] Key: s | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:40] Key: right shift | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:40] Key: enter | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:49] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:49] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:43:52] Key: ctrl | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:52] Key: ctrl | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:52] Key: ctrl | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:55] Key: v | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:43:57] Key: enter | Window: Release DHCP and set IP and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe

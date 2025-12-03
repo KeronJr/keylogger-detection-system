@@ -1,0 +1,72 @@
+[2025-12-03 13:01:00] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:00] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:00] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:00] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:00] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:00] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:00] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:01] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:01] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:01] Key: x | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:02] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:02] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:03] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:03] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:03] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:03] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:03] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:05] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:05] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:06] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:11] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:12] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:12] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:15] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:15] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:01:20] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:01:21] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:01:22] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:24] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:24] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:25] Key: right shift | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:25] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:25] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:25] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:26] Key: g | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:26] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:27] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:27] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:27] Key: s | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:27] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:28] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:28] Key: s | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:28] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:28] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:28] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:28] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:28] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:28] Key: a | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:28] Key: c | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:29] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:29] Key: u | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:29] Key: a | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:29] Key: l | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:30] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:30] Key: p | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:30] Key: a | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:31] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:31] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:31] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:31] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:32] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:32] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:32] Key: a | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:32] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:32] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:32] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:02:33] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 13:03:07] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:03:07] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:03:08] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:03:10] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:03:10] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe

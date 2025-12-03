@@ -1,0 +1,66 @@
+[2025-12-02 00:25:11] Key: c | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:11] Key: k | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:11] Key: j | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:11] Key: d | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:11] Key: z | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:11] Key: c | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:11] Key: ; | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:11] Key: ' | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:12] Key: k | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:12] Key: s | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:12] Key: d | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:12] Key: n | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:12] Key: k | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:13] Key: space | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:13] Key: x | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:13] Key: z | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:13] Key: n | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:13] Key: k | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:13] Key: space | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:13] Key: s | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:13] Key: k | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:13] Key: n | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:14] Key: space | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:14] Key: s | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:15] Key: k | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:15] Key: n | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:15] Key: c | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:15] Key: z | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:15] Key: x | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:15] Key: n | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:15] Key: s | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: k | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: n | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: c | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: z | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: space | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: n | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: k | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: z | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: x | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:16] Key: space | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:17] Key: x | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:17] Key: x | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:17] Key: x | Window: keylogger_with_consent_gui.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-02 00:25:31] Key: backspace | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:34] Key: backspace | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:35] Key: c | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:35] Key: r | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:35] Key: e | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:35] Key: a | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:36] Key: t | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:36] Key: e | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:36] Key: space | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:36] Key: m | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:36] Key: e | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:37] Key: space | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:37] Key: a | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:37] Key: space | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:37] Key: r | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:38] Key: e | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:38] Key: a | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:38] Key: d | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:39] Key: space | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:39] Key: m | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:39] Key: e | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-02 00:25:39] Key: space | Window: Network flow analysis for keylogger detection - Claude and 55 more pages - Personal - Microsoft​ Edge | Process: msedge.exe

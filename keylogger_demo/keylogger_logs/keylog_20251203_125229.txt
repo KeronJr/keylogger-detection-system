@@ -1,0 +1,250 @@
+[2025-12-03 12:52:32] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:32] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:33] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:33] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:33] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:33] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:33] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:33] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:33] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:34] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:34] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:34] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:34] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:34] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:34] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:34] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:35] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:35] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:35] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:36] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:36] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:36] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:36] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:36] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:36] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:36] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:36] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:37] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:37] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:37] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:37] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:37] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:37] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:37] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:37] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:38] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:38] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:38] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:38] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:38] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:38] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:38] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:38] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:39] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:39] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:39] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:39] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:39] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:39] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:39] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:40] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:40] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:40] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:40] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:40] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:40] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:40] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:40] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:41] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:41] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:41] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:41] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:41] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:41] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:41] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:42] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:42] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:42] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:42] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:43] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:43] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:43] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:43] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:43] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:43] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:43] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:43] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:44] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:44] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:44] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:44] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:44] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:44] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:44] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:44] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:45] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:45] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:45] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:45] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:45] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:45] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:45] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:45] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:46] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:46] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:46] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:46] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:46] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:46] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:46] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:47] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:47] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:47] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:47] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:47] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:47] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:47] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:47] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:47] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:48] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:49] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:50] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:51] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:52] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:53] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:52:54] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 12:53:22] Key: s | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:22] Key: o | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:22] Key: w | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:22] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:23] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:23] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:23] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:23] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:24] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:24] Key: w | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:24] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:24] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:24] Key: n | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:25] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:25] Key: w | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:25] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:26] Key: l | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:27] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:27] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:27] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:27] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:28] Key: s | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:28] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:28] Key: n | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:29] Key: d | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:29] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:29] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:29] Key: o | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:29] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:29] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:30] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:30] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:30] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:31] Key: s | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:31] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: r | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: r | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:30] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:30] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:30] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:31] Key: s | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:31] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: r | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: r | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 12:53:32] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 36 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
