@@ -28,3 +28,5 @@
 [2025-12-03 13:39:33] Key: e | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
 [2025-12-03 13:39:33] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
 [2025-12-03 13:39:33] Key: space | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:40:00] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 13:40:00] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
