@@ -1,0 +1,60 @@
+[2025-12-03 20:02:56] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:56] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:57] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:57] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:58] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:58] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:58] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:58] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:58] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:59] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:02:59] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:06] Key: h | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:06] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:07] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:07] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:07] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:07] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:07] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:07] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:07] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:08] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:08] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:56] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:56] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:56] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:56] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:56] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:56] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:57] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:57] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:57] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:58] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:58] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:58] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:58] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:58] Key: g | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:58] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:59] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:59] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:03:59] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:04:00] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:04:00] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:04:23] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 20:04:24] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 20:04:25] Key: enter | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 20:05:32] Key: G | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:05:34] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:05:34] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:05:35] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:05:37] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:04:00] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:04:00] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:04:23] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 20:04:24] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 20:04:25] Key: enter | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 20:05:32] Key: G | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:05:34] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:05:34] Key: a | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:05:35] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 20:05:37] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe

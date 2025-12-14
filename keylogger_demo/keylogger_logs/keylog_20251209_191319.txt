@@ -1,0 +1,128 @@
+[2025-12-09 19:13:24] Key: l | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:24] Key: d | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:24] Key: s | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:24] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:24] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:24] Key: a | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:24] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:25] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:25] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:25] Key: a | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: d | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: a | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: d | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: a | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: s | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: n | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: a | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: s | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:26] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: s | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: d | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: s | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: a | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: a | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: s | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: d | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: a | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:27] Key: d | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: a | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: d | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: n | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: f | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: k | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:28] Key: n | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:29] Key: j | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:13:42] Key: c | Window: goojara.ch - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:13:45] Key: a | Window: goojara.ch - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:13:46] Key: enter | Window: goojara.ch - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:06] Key: backspace | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:07] Key: right | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:08] Key: backspace | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:09] Key: k | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:09] Key: e | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:09] Key: r | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:10] Key: o | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:10] Key: n | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:10] Key: space | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:11] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:12] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:12] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:12] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:12] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:12] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:12] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: shift | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: T | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: e | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: s | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:13] Key: t | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:16] Key: k | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:16] Key: e | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:16] Key: y | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:17] Key: l | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:17] Key: o | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:17] Key: g | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:18] Key: g | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:19] Key: m | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:19] Key: e | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:19] Key: space | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:19] Key: i | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:20] Key: space | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:20] Key: a | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:20] Key: l | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:20] Key: o | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:20] Key: o | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:21] Key: w | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:21] Key: space | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:23] Key: enter | Window: Login | ASPEN and 1 more page - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-09 19:15:53] Key: left windows | Window:  | Process: explorer.exe
+[2025-12-09 19:15:53] Key: shift | Window:  | Process: explorer.exe
+[2025-12-09 19:15:53] Key: S | Window:  | Process: explorer.exe
+[2025-12-09 19:16:01] Key: left windows | Window:  | Process: explorer.exe
+[2025-12-09 19:16:01] Key: w | Window: Search | Process: SearchHost.exe
+[2025-12-09 19:16:02] Key: h | Window: Search | Process: SearchHost.exe
+[2025-12-09 19:16:03] Key: enter | Window: Search | Process: SearchHost.exe
+[2025-12-09 19:16:07] Key: l | Window: WhatsApp Beta | Process: WhatsApp.Root.exe
+[2025-12-09 19:16:08] Key: o | Window: WhatsApp Beta | Process: WhatsApp.Root.exe
+[2025-12-09 19:16:08] Key: w | Window: WhatsApp Beta | Process: WhatsApp.Root.exe
+[2025-12-09 19:16:11] Key: ctrl | Window: WhatsApp Beta | Process: WhatsApp.Root.exe
+[2025-12-09 19:16:11] Key: v | Window: WhatsApp Beta | Process: WhatsApp.Root.exe
+[2025-12-09 19:16:15] Key: enter | Window: WhatsApp Beta | Process: WhatsApp.Root.exe
+[2025-12-09 19:16:25] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-09 19:16:25] Key: c | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe

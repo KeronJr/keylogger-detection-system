@@ -1,0 +1,330 @@
+[2025-12-05 01:38:21] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:22] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:22] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:22] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:23] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:23] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:25] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:27] Key: down | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:30] Key: enter | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:33] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:38:54] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:15] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:36] Key: up | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:39:57] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:18] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:40:39] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:00] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:21] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:41:42] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:03] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:24] Key: up | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:42:45] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:45] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:45] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:45] Key: up | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:45] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:45] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:45] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:45] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:45] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:42:45] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:06] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:27] Key: backspace | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:43:48] Key: p | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:43:48] Key: w | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:43:48] Key: d | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:43:48] Key: enter | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:43:48] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:43:48] Key: c | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:43:48] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:43:48] Key: v | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:43:48] Key: enter | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:43:48] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:44:09] Key: z | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:09] Key: z | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:09] Key: z | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:09] Key: v | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:09] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:09] Key: v | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:09] Key: enter | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:09] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:09] Key: z | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:09] Key: v | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:44:30] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:44:30] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:44:30] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:44:51] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:44:51] Key: z | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:44:52] Key: v | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:45:24] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:24] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:25] Key: right shift | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:25] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: a | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: m | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: r | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: u | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: n | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: n | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:45:46] Key: n | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: g | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: a | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: s | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: a | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: d | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: m | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:07] Key: n | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:28] Key: b | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:28] Key: y | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:28] Key: t | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:28] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:28] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:28] Key: backspace | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:28] Key: space | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:28] Key: b | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:28] Key: u | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:28] Key: t | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:46:49] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:49] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:49] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:49] Key: g | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:49] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:49] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:49] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:49] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:49] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:46:49] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:10] Key: s | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:10] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:10] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:10] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:10] Key: z | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:10] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:10] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:10] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:10] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:25] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:47:46] Key: z | Window: Select Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:47:46] Key: v | Window: Select Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:47:54] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:54] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:47:57] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:36] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:48:37] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:48:37] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:48:37] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:48:37] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:48:58] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:49:19] Key: ctrl | Window: Select Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:49:19] Key: ctrl | Window: Select Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:49:19] Key: ctrl | Window: Select Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:49:19] Key: ctrl | Window: Select Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:49:19] Key: z | Window: Select Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:49:19] Key: v | Window: Select Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:49:40] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:49:40] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:49:40] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:49:40] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:50:01] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:01] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:01] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:01] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:01] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:01] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:01] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:01] Key: ctrl | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:01] Key: z | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:01] Key: v | Window: Administrator: Windows PowerShell | Process: powershell.exe
+[2025-12-05 01:50:43] Key: g | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:50:43] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:50:43] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:50:44] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:50:44] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:50:44] Key: m | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:50:44] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:50:44] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:50:44] Key: f | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:50:45] Key: u | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:06] Key: l | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:06] Key: l | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:06] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:06] Key: c | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:06] Key: o | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:06] Key: d | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:06] Key: e | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:06] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:06] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:51:41] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:52:02] Key: z | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:52:02] Key: v | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:52:31] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:31] Key: o | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:31] Key: w | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:32] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:32] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:32] Key: o | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:32] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:32] Key: i | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: n | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: s | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: t | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: a | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: l | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: l | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: h | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: o | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:52:53] Key: o | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:53:14] Key: k | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:53:14] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:53:14] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:53:14] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:53:48] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:48] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:48] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:49] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:49] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:49] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:14] Key: k | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:53:14] Key: space | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:53:14] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:53:14] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 45 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-05 01:53:48] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:48] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:48] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:49] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:49] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-05 01:53:49] Key: ctrl | Window: run_complete_detection.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe

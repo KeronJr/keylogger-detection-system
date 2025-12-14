@@ -1,0 +1,301 @@
+[2025-12-03 15:49:55] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:55] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:55] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:56] Key: h | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:56] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:56] Key: h | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:56] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:56] Key: h | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:57] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:57] Key: h | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:57] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:57] Key: h | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:57] Key: v | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:49:57] Key: h | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:17] Key: j | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:17] Key: f | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:17] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:18] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:18] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:18] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:18] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:18] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:18] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:19] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:19] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:19] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:19] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:19] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:21] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:21] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:21] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:22] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:22] Key: s | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:22] Key: k | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:22] Key: l | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:23] Key: d | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:50:57] Key: i | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:50:58] Key: p | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:50:59] Key: space | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:50:59] Key: c | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:50:59] Key: o | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:50:59] Key: n | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:50:59] Key: f | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:50:59] Key: i | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:00] Key: g | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:00] Key: enter | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:04] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:04] Key: left | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:05] Key: left | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:05] Key: left | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:05] Key: left | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:05] Key: left | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:05] Key: left | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:06] Key: backspace | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:07] Key: enter | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:13] Key: p | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:13] Key: u | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:13] Key: i | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:14] Key: backspace | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:14] Key: backspace | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:15] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:15] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:16] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:16] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:16] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:17] Key: up | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:18] Key: enter | Window: Command Prompt | Process: WindowsTerminal.exe
+[2025-12-03 15:51:19] Key: ctrl | Window: Command Prompt - ping  192.168.56.10 | Process: WindowsTerminal.exe
+[2025-12-03 15:51:19] Key: c | Window: Command Prompt - ping  192.168.56.10 | Process: WindowsTerminal.exe
+[2025-12-03 15:51:47] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:51:47] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 15:51:55] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:56] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:57] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:57] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:57] Key: ctrl | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:57] Key: a | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:57] Key: v | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:51:59] Key: enter | Window: Release DHCP and set IP and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:52:38] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:52:39] Key: v | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:53:48] Key: enter | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:54:19] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:54:19] Key: c | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:54:44] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:54:44] Key: c | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:54:45] Key: c | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:55:18] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:55:19] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:55:19] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:55:19] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:55:19] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:55:19] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:55:19] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:55:19] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:55:19] Key: ctrl | Window: Educational Keylogger: Techniques and Detection - Grok and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:56:38] Key: left windows | Window: Chapt_7_Performance_evaluation_Model_assessment_and_selection (1).pdf and 12 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 15:56:38] Key: l | Window: Chapt_7_Performance_evaluation_Model_assessment_and_selection (1).pdf and 12 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:08:57] Key: enter | Window: Windows Default Lock Screen | Process: LockApp.exe
+[2025-12-03 16:09:17] Key: k | Window: Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:09:17] Key: e | Window: Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:09:17] Key: r | Window: Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:09:17] Key: o | Window: Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:09:17] Key: n | Window: Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:09:34] Key: k | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:34] Key: e | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:34] Key: r | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:35] Key: backspace | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:36] Key: backspace | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:36] Key: backspace | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:36] Key: backspace | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:36] Key: d | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:37] Key: r | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:37] Key: i | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:37] Key: v | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:37] Key: e | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:09:37] Key: enter | Window: New tab and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:11] Key: shift | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:11] Key: C | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:12] Key: e | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:12] Key: r | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:13] Key: f | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:14] Key: backspace | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:14] Key: i | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:14] Key: f | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:15] Key: i | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:15] Key: c | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:15] Key: a | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:15] Key: t | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:15] Key: e | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:16] Key: s | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:16] Key: enter | Window: My Drive - Google Drive and 14 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:10:34] Key: c | Window: Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:34] Key: e | Window: Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:34] Key: r | Window: ce - Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:35] Key: y | Window: cer - Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:36] Key: backspace | Window: cery - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:36] Key: t | Window: cery - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:36] Key: i | Window: cery - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:36] Key: f | Window: cery - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:36] Key: i | Window: cert - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:36] Key: c | Window: cert - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:39] Key: a | Window: certific - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:39] Key: t | Window: certific - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:39] Key: e | Window: certific - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:39] Key: s | Window: certific - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:10:40] Key: enter | Window: certific - Search Results in Downloads and 1 more tab - File Explorer | Process: explorer.exe
+[2025-12-03 16:12:10] Key: D | Window: Trust In God (feat. Chris Brown & Isaiah Templeton) | Elevation Worship - YouTube and 39 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:12:15] Key: n | Window: New tab and 15 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:12:16] Key: e | Window: New tab and 15 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:12:17] Key: enter | Window: New tab and 15 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:13:57] Key: backspace | Window: Save As | Process: msedge.exe
+[2025-12-03 16:14:27] Key: backspace | Window: Save As | Process: msedge.exe
+[2025-12-03 16:14:28] Key: backspace | Window: Save As | Process: msedge.exe
+[2025-12-03 16:15:18] Key: backspace | Window: Save As | Process: msedge.exe
+[2025-12-03 16:16:05] Key: backspace | Window: Save As | Process: msedge.exe
+[2025-12-03 16:16:58] Key: c | Window: Cisco Networking Academy and 16 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:16:58] Key: u | Window: Cisco Networking Academy and 16 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:16:58] Key: r | Window: Cisco Networking Academy and 16 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:16:58] Key: s | Window: Cisco Networking Academy and 16 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:16:59] Key: e | Window: Cisco Networking Academy and 16 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:16:59] Key: r | Window: Cisco Networking Academy and 16 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:16:59] Key: a | Window: Cisco Networking Academy and 16 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:16:59] Key: enter | Window: Cisco Networking Academy and 16 more pages - Personal - Microsoft​ Edge | Process: msedge.exe
+[2025-12-03 16:20:14] Key: G | Window:  | Process: msedge.exe
+[2025-12-03 16:20:46] Key: shift | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:47] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:48] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:49] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:50] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:51] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:51] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:51] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:51] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:51] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:51] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:51] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:51] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:51] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:54] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:20:55] Key: ctrl | Window: Open | Process: msedge.exe
+[2025-12-03 16:21:42] Key: ctrl | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
+[2025-12-03 16:21:43] Key: c | Window: simple_keylogger.py - keylogger-detection-system - Visual Studio Code | Process: Code.exe
